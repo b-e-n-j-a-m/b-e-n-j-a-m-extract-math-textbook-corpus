@@ -1,0 +1,4 @@
+interface:
+  display_name: "Extract Math Textbook Corpus"
+  short_description: "Build concise, source-grounded mathematical notes"
+  default_prompt: "Use $extract-math-textbook-corpus to extract the mathematical corpus from these textbook pages."
